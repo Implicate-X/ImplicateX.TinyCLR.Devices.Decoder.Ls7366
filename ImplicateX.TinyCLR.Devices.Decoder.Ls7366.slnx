@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Ls7366App/Ls7366App.csproj" Id="cfdf71f1-56e5-400b-a11e-89abf0283319">
+    <Deploy />
+  </Project>
+  <Project Path="ImplicateX.TinyCLR.Devices.Decoder.Ls7366.csproj" Id="6898551b-ee98-4f02-b3e7-19407bc4e4da" />
+</Solution>
