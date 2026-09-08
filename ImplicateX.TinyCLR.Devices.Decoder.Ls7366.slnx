@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/docs/">
+    <File Path="docs/ls7366r.png" />
+  </Folder>
   <Project Path="../Ls7366App/Ls7366App.csproj" Id="cfdf71f1-56e5-400b-a11e-89abf0283319">
     <Deploy />
   </Project>
