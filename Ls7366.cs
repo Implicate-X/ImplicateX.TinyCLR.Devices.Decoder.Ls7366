@@ -294,12 +294,14 @@ namespace ImplicateX.Devices.Decoder
 		{
 			this.ConfigureForEc11
 			(
+				mdr0:
 				Mode.QuadratureX4 |
 				Mode.FreeRun |
 				Mode.DisableIndex |
 				Mode.AsynchronousIndex |
 				Mode.FilterClockDiv2,
 
+				mdr1:
 				Mode.Byte4Mode |
 				Mode.CounterEnabled
 			);
