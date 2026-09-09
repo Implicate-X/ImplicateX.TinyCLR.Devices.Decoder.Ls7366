@@ -2,7 +2,6 @@
 /// Implements a high-precision 32-bit quadrature decoder using the LS7366R 
 /// via SPI in TinyCLR 3 for manual rotary encoders, such as the EC11.
 /// Unlike all software-based solutions, no dropouts or skips are to be expected here.
-/// (c) 2026 by Robert Dettmann.
 /// </summary>
 
 using System;
